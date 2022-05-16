@@ -1,6 +1,6 @@
 <h1>personal_library_C</h1>
 
-<img style="width: 30vw;" src="img\prog_c.jpg" alt="C code illustrative image"/>
+<img style="width: 50vw;" src="img\prog_c.jpg" alt="C code illustrative image"/>
 
 <section>
 <h2>What does each function do? | O que cada função faz?</h2>
