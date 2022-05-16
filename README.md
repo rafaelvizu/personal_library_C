@@ -1,4 +1,4 @@
-<h1>personal_library_C</h1>
+<h1>personal_library_C v1.0</h1>
 
 <img style="width: 50vw;" src="img\prog_c.jpg" alt="C code illustrative image"/>
 
