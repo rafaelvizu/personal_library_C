@@ -1,10 +1,6 @@
-a {
-  text-decoration: none;
-}
+<h1>personal_library_C v1.0</h1>
 
-<h1>personal_library_C</h1>
-
-<img style="width: 30vw;" src="img\prog_c.jpg" alt="C code illustrative image"/>
+<img style="width: 50vw;" src="img\prog_c.jpg" alt="C code illustrative image"/>
 
 <section>
 <h2>What does each function do? | O que cada função faz?</h2>
@@ -59,4 +55,4 @@ Verifica se a string é um valor numérico. O primeiro parâmetro é a string qu
 
 </section>
 
-<a href="1-personal_library_C/personal_library.h" download="personal_library.h" type="text/h"> Download personal_library</a>
+<a href="https://drive.google.com/file/d/1RXwyAJzJQaRKxlx1XNJlM9RODaUdDi6L/view?usp=sharing" download="personal_library.h" type="text/h"> Download personal_library</a>
