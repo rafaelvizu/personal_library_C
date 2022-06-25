@@ -90,6 +90,18 @@ int CheckStrValueToNumber(char valor[250]) {
 
 }
 
+invertArrayNumber(float numbers[]) {
+    size_t tamArray = sizeof(numbers) / sizeof(numbers[0]);
+    printf("%li", tamArray);
+}
+
+
+
+int convertToBinary(int num) {
+
+}
+
+
 
 
 #endif // PERSONAL_LIBRARY_H_INCLUDED
