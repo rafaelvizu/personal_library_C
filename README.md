@@ -34,7 +34,7 @@ Verifica se a string pertence a um conjunto numérico. Onde o primeiro parâmetr
 Checks if the string is a numeric value. The first parameter being the string you want to analyze. Thus, the function returns true or false (0 or 1).
 </p>
 <p>
-Verifica se a string é um valor numérico. O primeiro parâmetro é a string que você deseja analisar. Assim, a função retorna verdadeiro ou falso (0 ou 1).
+Verifica se a string é um valor numérico. O primeiro parâmetro é a string que você deseja analisar. Assim, a função retorna verdadeiro ou falso (1 ou 0).
 </p>
 
 </section>
